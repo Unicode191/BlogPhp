@@ -45,8 +45,8 @@
                         <a href="javascript:void(0)" class="collapsed" data-target="#menu" data-toggle="collapse"><i class="icon-menu menu"></i></a>
                          <div id="menu" class="collapse">
                            <ul class="menu-link">
-                               <li><a href="/about.php">About</a></li>
-                               <li><a href="/work">Work</a></li>
+                               <li><a href="/about">About</a></li>
+                               <li><a href="/post">Post</a></li>
                                <li><a href="/contact">Contact</a></li>
                             </ul>
                          </div>
@@ -128,7 +128,7 @@
                        <div class="col-md-12 page-body margin-top-50 footer">
                           <footer>
                           <ul class="menu-link">
-                               <li><a href="/index">Home</a></li>
+                               <li><a href="/">Home</a></li>
                                <li><a href="/about">About</a></li>
                                <li><a href="/post">Post</a></li>
                                <li><a href="/contact">Contact</a></li>
@@ -167,7 +167,5 @@
 
     <!-- Main Javascript File  -->
     <script type="text/javascript" src="../public/js/scripts.js"></script>
-
-
    </body>
  </html>
